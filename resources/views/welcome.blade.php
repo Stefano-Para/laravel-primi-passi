@@ -71,6 +71,7 @@
                     Esercizio già fatto una volta, ricaricato su repository per problemi di sync con GitHub
                 </div>
 
+                
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
